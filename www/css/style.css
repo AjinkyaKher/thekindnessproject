@@ -1,0 +1,27 @@
+#welcome-view {
+    background: url(../img/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.logo-welcome {
+    width: 120px;
+    height: 120px;
+    margin: 5px auto 10px auto;
+    background: url(../img/trulyhappy.png) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+.login-btns {
+    width: 250px;
+    margin: 300px auto 0 auto;
+}
+
+#footer {
+    background: #5A5A5A;
+    opacity: 0.4;
+    color: #fff;
+}
